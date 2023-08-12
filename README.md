@@ -4,7 +4,7 @@
 
 ## Bill of Materials
 
-The BoM is on Google Sheets:  (https://docs.google.com/spreadsheets/d/1ubZ6uMp17yrBXjzQ3mNF3NKE6toNoUMcJH_Sa5_5ocY/edit?usp=sharing)
+The BoM is on Google Sheets:  https://docs.google.com/spreadsheets/d/1ubZ6uMp17yrBXjzQ3mNF3NKE6toNoUMcJH_Sa5_5ocY/edit?usp=sharing
 
 ## Builds Folder
 
